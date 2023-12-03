@@ -1,0 +1,12 @@
+components:
+        1. Home
+        2. SearchCar
+        3. Booking
+        4. Model Popup for Login + Registration
+        5. cars -- for car owners
+Reuseable components:
+        1. carCard
+Service
+        1. car Service
+        
+Roles: Customer,carOwner
